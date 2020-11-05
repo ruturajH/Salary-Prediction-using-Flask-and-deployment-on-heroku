@@ -2,7 +2,9 @@
 This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
 
 ### Prerequisites
-You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
+-Scikit Learn
+-Pandas (for Machine Leraning Model)
+-Flask (for API) installed.
 
 ### Project Structure
 This project has four major parts :
@@ -12,7 +14,7 @@ This project has four major parts :
 4. templates - This folder contains the HTML template to allow user to enter employee detail and displays the predicted employee salary.
 
 ### Running the project
-1. Ensure that you are in the project home directory. Create the machine learning model by running below command -
+1. Create the machine learning model by running below command -
 ```
 python model.py
 ```
